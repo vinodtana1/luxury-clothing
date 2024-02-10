@@ -1,0 +1,11 @@
+{
+  "name": "Mixio - Five in One Elegant Coming Soon and Landing Page Template",
+  "short_name": "Mixio",
+  "icons": [
+    { "src": "/img/favicon/android-icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/img/favicon/android-icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#191919",
+  "background_color": "#191919",
+  "display": "standalone"
+}
